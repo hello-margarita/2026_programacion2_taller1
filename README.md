@@ -16,4 +16,18 @@ Once all clients have been registered, it displays summary statistics, an ordere
 
 ## How to run
 
-Make sure Python 3 is installed. Then, from the project folder, run:
+Make sure Python 3 is installed. Then, from the project folder, run: python consultorio_odontologico.py
+
+The program will prompt you for each client's information in the console.
+
+## Notes
+
+- Built using only basic Python structures (`if`, `for`, `while`, functions, and classes), consistent with the level covered in the course at the time this assignment was developed.
+- The program does not prevent the same ID number from being registered more than once, since a client may have multiple scheduled appointments. As a result, a search by ID returns the first matching record found in the list.
+- Date validation accepts today's date or any future date, with no upper limit, as adding one was considered outside the scope of this assignment.
+
+## Author
+
+Margarita María Arango Vélez
+Programming II — Universidad de Manizales
+2026
