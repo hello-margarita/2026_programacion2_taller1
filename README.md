@@ -29,4 +29,4 @@ The program will prompt you for each client's information in the console.
 ## Author
 
 Margarita María Arango Vélez  
-Programming II — Universidad de Manizales 2026
+Programming II — Universidad de Manizales — 2026
